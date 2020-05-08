@@ -1,8 +1,5 @@
-Drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
-
-<br>
-
 #### Hi! I am Sunderi, a software engineer who also likes data, product stuffs and growth hacking! :)
+##### Feel free to drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
 
 <br>
 <br>
@@ -39,11 +36,11 @@ Education
 
 Books I Love
 ---------
-<br>
-
 > I believe the books you read tells a lot about your personality!
 > 
 > So there you go! :) 
+
+<br>
 
 - Zero to One -- Peter Thiel
 - Growth Hacking -- Sean Ellis & Morgan Brown
