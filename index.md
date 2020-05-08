@@ -1,5 +1,3 @@
-============
-
 -------------------     --------------------------------------------------------
 Jakarta                                                sunderi.pranata@gmail.com
 Indonesia                           https://www.linkedin.com/in/sunderi-pranata/
@@ -11,8 +9,7 @@ Education
 2013-2018
 :   **Computer Engineering**; Universitas Multimedia Nusantara
 
-    *Thesis: * [2FYSH: two-factor authentication you should have for password replacement
-](https://www.researchgate.net/publication/332564226_2FYSH_two-factor_authentication_you_should_have_for_password_replacement)
+    Thesis:  [2FYSH: two-factor authentication you should have for password replacement](https://www.researchgate.net/publication/332564226_2FYSH_two-factor_authentication_you_should_have_for_password_replacement)
 
 2016
 :   **Research Exchange Student**; Tokyo Denki University (Japan)
@@ -30,7 +27,7 @@ Experience
 * Architecting & migrating some large domain from current monolithic service
 
 
-Also see my embarassing college projects on my [youtube](https://www.youtube.com/channel/UCgKXDlkL4KGXS38Obvxnygw)
+Also see my embarassing college projects on my [Youtube](https://www.youtube.com/channel/UCgKXDlkL4KGXS38Obvxnygw)
 
 > A software engineer who actually likes data, product stuffs and growth hacking.
 >
