@@ -11,7 +11,7 @@
 
 <img src="https://s2.bukalapak.com/marketplace/favicon-new.ico" width="20"> **Bukalapak (2018-present)**
 
-Having fun at a *Tech Unicorn* company and turning coffees :coffee: into codes on user-related product features.
+Having fun at a *Tech Unicorn* company and turning coffees☕ into codes on user-related product features.
 
 <br>
 <br>
