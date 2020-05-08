@@ -2,4 +2,5 @@ theme: jekyll-theme-hacker
 title: Sunderi Pranata
 description: A Sotfware Engineer riding a Unicorn in Indonesia
 show_downloads: false
+show_github_repo: false
 google_analytics: UA-165854779-1
