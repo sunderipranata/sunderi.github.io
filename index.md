@@ -1,4 +1,4 @@
-My Linkedin Profile: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
+Drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
 
 <br>
 
