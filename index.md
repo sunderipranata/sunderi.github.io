@@ -19,12 +19,14 @@ Having fun at a *Tech Unicorn* company and turning coffees☕ into codes on user
 🎓 Education
 ---------
 
-2013-2018
+**2013-2018**
 :   **Computer Engineering**; Universitas Multimedia Nusantara
 
 *Thesis: [2FYSH: two-factor authentication you should have for password replacement](https://www.researchgate.net/publication/332564226_2FYSH_two-factor_authentication_you_should_have_for_password_replacement)*
 
-2016
+<br>
+
+**2016**
 :   **Research Exchange Student**; Tokyo Denki University (Japan)
 
 *Research topic: Usable web authentication standard (FIDO U2F)*
