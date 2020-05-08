@@ -1,123 +1,37 @@
----
-layout: default
----
+============
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+-------------------     --------------------------------------------------------
+Jakarta                                                sunderi.pranata@gmail.com
+Indonesia                           https://www.linkedin.com/in/sunderi-pranata/
+-------------------     --------------------------------------------------------
 
-[Link to another page](./another-page.html).
+Education
+---------
 
-There should be whitespace between paragraphs.
+2013-2018
+:   **Computer Engineering**; Universitas Multimedia Nusantara
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+    *Thesis: * [2FYSH: two-factor authentication you should have for password replacement
+](https://www.researchgate.net/publication/332564226_2FYSH_two-factor_authentication_you_should_have_for_password_replacement)
 
-# Header 1
+2016
+:   **Research Exchange Student**; Tokyo Denki University (Japan)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    *Research topic: Usable web authentication standard (FIDO U2F)*
 
-## Header 2
+Experience
+----------
 
-> This is a blockquote following a header.
+**Bukalapak:**
+
+* Delivered product features in user-related products such as login, registration, OTP, user accounts, OAuth authentication, and phishing prevention.
+* Enhanced data quality by incorporating logging and building monitoring dashboards for better A/B testing analysis.
+* Treated users and developed a product feature to prevent account takeover due to a database breach incident reaching ~13M users
+* Architecting & migrating some large domain from current monolithic service
+
+
+Also see my embarassing college projects on my [youtube](https://www.youtube.com/channel/UCgKXDlkL4KGXS38Obvxnygw)
+
+> A software engineer who actually likes data, product stuffs and growth hacking.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+> Hence, a hacker
