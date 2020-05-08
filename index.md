@@ -12,7 +12,7 @@
 
 **Bukalapak (2018-present)**
 
-Having fun at a Tech Unicorn company: *Bukalapak* and turning coffees :coffee: to codes on user-related product features.
+Having fun at a Tech Unicorn company: *Bukalapak* and turning coffees :coffee: into codes on user-related product features.
 
 ---
 <br>
