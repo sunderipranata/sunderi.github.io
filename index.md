@@ -7,7 +7,7 @@
 <br>
 <br>
 
-:computer: Experience
+💻 Experience
 ----------
 
 **Bukalapak (2018-present)**
@@ -34,7 +34,7 @@ Having fun at a Tech Unicorn company: *Bukalapak* and turning coffees :coffee: i
 <br>
 <br>
 
-:blue_book: Books I Love
+📘 Books I Love
 ---------
 > I believe that the books you read tell a lot about your personality!
 > 
@@ -57,6 +57,6 @@ Having fun at a Tech Unicorn company: *Bukalapak* and turning coffees :coffee: i
 <br>
 <br>
 
-:arrow_forward: Bonus
+▶️ Bonus
 -----
 Also, see my embarassing college projects on my [Youtube](https://www.youtube.com/channel/UCgKXDlkL4KGXS38Obvxnygw)
