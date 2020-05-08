@@ -1,8 +1,9 @@
-https://www.linkedin.com/in/sunderi-pranata/
+[https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
 
 >
 > A software engineer who also likes data, product stuffs and growth hacking.
 >
+<br>
 
 Education
 ---------
@@ -17,6 +18,9 @@ Education
 
     *Research topic: Usable web authentication standard (FIDO U2F)*
 
+<br>
+<br>
+
 Experience
 ----------
 
@@ -28,4 +32,6 @@ Experience
 * Architecting & migrating some large domain from current monolithic service
 
 ---
+<br>
+<br>
 Also see my embarassing college projects on my [Youtube](https://www.youtube.com/channel/UCgKXDlkL4KGXS38Obvxnygw)
