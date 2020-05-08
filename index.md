@@ -1,7 +1,9 @@
-[https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
+My Linkedin Profile: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
 
 <br>
-## A software engineer who also likes data, product stuffs and growth hacking! :)
+
+#### Hi! I am Sunderi, a software engineer who also likes data, product stuffs and growth hacking! :)
+
 <br>
 <br>
 
@@ -18,6 +20,7 @@ Experience
 ---
 <br>
 <br>
+
 Education
 ---------
 
@@ -33,14 +36,15 @@ Education
 
 <br>
 <br>
+
 Books I Love
 ---------
 <br>
->
+
 > I believe the books you read tells a lot about your personality!
 > 
-> So there you go! :)
-> 
+> So there you go! :) 
+
 - Zero to One -- Peter Thiel
 - Growth Hacking -- Sean Ellis & Morgan Brown
 - Freakonomics - Steven D. Levitt & Stephen J. Dubner
@@ -52,6 +56,7 @@ Books I Love
 - How They Started Digital -- by Peter Thiel
 - Smart Thinking -- Art Markman
 - Flash! -- Benjamin
+
 <br>
 <br>
 
