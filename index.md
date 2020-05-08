@@ -1,8 +1,6 @@
-<br>
-
 #### Feel free to drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
+<br>
 ### Hi! I am Sunderi, a software engineer who also likes data, product stuffs and growth hacking! :)
-
 
 <br>
 <br>
