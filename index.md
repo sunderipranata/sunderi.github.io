@@ -1,5 +1,6 @@
 #### Feel free to drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
 <br>
+
 ### Hi! I am Sunderi, a software engineer who also likes data, product stuffs and growth hacking! :)
 
 <br>
@@ -8,11 +9,10 @@
 💻 Experience
 ----------
 
-**Bukalapak (2018-present)**
+<img src="https://s2.bukalapak.com/marketplace/favicon-new.ico" width="20"> **Bukalapak (2018-present)**
 
-Having fun at a Tech Unicorn company: *Bukalapak* and turning coffees :coffee: into codes on user-related product features.
+Having fun at a *Tech Unicorn* company and turning coffees :coffee: into codes on user-related product features.
 
----
 <br>
 <br>
 
