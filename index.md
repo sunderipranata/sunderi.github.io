@@ -1,7 +1,7 @@
-#### Feel free to drop me message on my Linkedin: [https://www.linkedin.com/in/sunderi-pranata/](https://www.linkedin.com/in/sunderi-pranata/)
+#### Feel free to drop me message on my [Linkedin](https://www.linkedin.com/in/sunderi-pranata/)
 <br>
 
-### Hi! I am Sunderi, a software engineer who also likes data, product stuffs and growth hacking! :)
+### Hi! I am Sunderi; currently a product manager; was a software engineer. :)
 
 <br>
 <br>
@@ -11,12 +11,12 @@
 
 <img src="https://s2.bukalapak.com/marketplace/favicon-new.ico" width="20"> **Bukalapak (2018-present)**
 
-Having fun at a *Tech Unicorn* company and turning coffees☕ into codes on user-related product features.
+Having fun at a *Tech Unicorn* company.
 
 <br>
 <br>
 
-<img src="https://yukbantubisnis.online/ybbo.ico" width="20"> **Yuk Bantu Bisnis Online (2020-present)**
+<img src="https://yukbantubisnisonline.com/ybbo.ico" width="20"> **Yuk Bantu Bisnis Online (2020-present)**
 
 A project started & led by me with my amazing team. Aiming to assist business owners to shift online and survive during the COVID-19 pandemic. Check this out! -> [Yuk Bantu Bisnis Online!](https://yukbantubisnis.online)
 
